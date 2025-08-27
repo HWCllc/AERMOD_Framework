@@ -55,8 +55,8 @@ upper_air_data_file = 'DEN_2016.PFL'
 # INPUT LIST OF X COORDINATES IN source_x_points AND Y COORDINATES IN source_y_points
 # INDEXES WILL CORRESPOND TO EACH OTHER IN THE TWO LISTS
 # LISTS MUST BE MATCHING LENGTH
-source_coordinate_list_x = [100, 200, -1032.2, -370.6]
-source_coordinate_list_y = [100, -489, 55.6, -622.2]
+source_coordinate_list_x = [41.11.53.66]
+source_coordinate_list_y = [76.45.52.99]
 
 # list of pollutant source release heights in meters
 # can be a single data point in which case the value will be applied to EVERY pollutant source
